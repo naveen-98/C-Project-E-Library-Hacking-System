@@ -44,3 +44,5 @@ This is an e-library system created using the C language. But this is really a h
        ( Android or Apple )
 
 09 - Once it is provided, the user will be automatically taken to the E- library
+
+< I have hidden the link here. Because of dangerous codes. >
