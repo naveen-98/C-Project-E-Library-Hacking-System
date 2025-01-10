@@ -48,3 +48,45 @@ This is an e-library system created using the C language. But this is really a h
 < I have hidden the link here. Because of dangerous codes. >
 
 
+
+
+
+# E-Library Registration System
+
+This project is a simple C-based console application for registering users to an E-Library system. It includes features for user registration, delay handling, time display, and user interaction through a text-based menu.
+
+## Features
+
+- **User Registration**: Collects first name and age for new users.
+- **Delay Handling**: Implements a `setTimeout` function to introduce delays in the program.
+- **Current Time Display**: Shows the current login time of the user.
+- **Interactive Menu**: Offers options to download books or visit the library's website, and includes simple phishing and Trojan virus simulations for educational purposes.
+- **System Messages**: Provides various system messages and ASCII art depending on user choices.
+
+## How to Use
+
+1. **Compile the Code**: Use a C compiler to compile the source code.
+   ```bash
+   gcc -o elibrary elibrary.c
+
+2. **Run the Application**: Execute the compiled program.
+   
+   ./elibrary
+
+3. **Follow the Prompts**: Enter the required information and follow the interactive menu to explore different functionalities.
+
+# Disclaimer
+
+This program contains simulated virus attacks and phishing attempts for educational purposes only. It is intended for learning and awareness about potential security threats. Use with caution and at your own risk.
+
+# License
+
+MIT License
+
+# Contributions
+
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+**Note**: Ensure you use this project responsibly and for educational purposes only.
+
+
