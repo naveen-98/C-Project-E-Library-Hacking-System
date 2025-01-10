@@ -86,7 +86,3 @@ MIT License
 # Contributions
 
 Contributions are welcome! Please fork the repository and submit a pull request.
-
-**Note**: Ensure you use this project responsibly and for educational purposes only.
-
-
